@@ -49,3 +49,5 @@ Synthetic-data results should not be interpreted as evidence of real-world deplo
 ## Approval Notice
 
 Artifacts will be added only after authorization is obtained to publish synthetic data and supporting reproducibility code.
+
+UPDATE: Artifacts should be public available on Monday June 15th 2026
